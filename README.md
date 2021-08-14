@@ -2,7 +2,15 @@
 - 👀 I’m interested in ... stack development
 - 🌱 I’m currently learning ... web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... bhargavdharan@facebook
+-  How to reach me:
+
+Mail Id: bhargavdharan20@gmail.com
+Facebook: https://www.facebook.com/bhargavdharan
+Instagram: https://www.instagram.com/bhargavdharan/
+Github: https://github.com/bhargavdharan
+LinkedIn : https://www.linkedin.com/in/bhargavdharan/
+
+
 
 <!---
 bhargavdharan/bhargavdharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
