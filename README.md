@@ -6,7 +6,7 @@
 
 Mail Id: bhargavdharan20@gmail.com
 Facebook: https://www.facebook.com/bhargavdharan
-Instagram: https://www.instagram.com/bhargavdharan/
+Instagram: https://www.instagram.com/bhargav_dharan20/
 Github: https://github.com/bhargavdharan
 LinkedIn : https://www.linkedin.com/in/bhargavdharan/
 
