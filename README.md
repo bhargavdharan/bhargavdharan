@@ -12,7 +12,9 @@
 
 ### Github: https://github.com/bhargavdharan
 
-### LinkedIn :https://www.linkedin.com/in/dharan-kumar-bera-0498a1184/
+### LinkedIn: https://www.linkedin.com/in/dharan-kumar-bera-0498a1184/
+
+### Twitter: https://twitter.com/Dharanrockstar1
 
 
 
