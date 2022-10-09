@@ -1,7 +1,7 @@
 ## - 👋 Hi, **I’m @bhargavdharan**
 ## - 👀 I’m interested in ... *Applications development and Cyber security*
 ## - 🌱 I’m currently learning ... *full stack development*
-## - 💞️ I’m currently working ... *IAM solutions in ILANTUS TECHNOLOGIES company*
+## - 💞️ I’m currently working as ... *Software Engineer in ILANTUS TECHNOLOGIES company*
 ## -  How to reach me:
 
 ### Mail Id: bhargavdharan20@gmail.com
