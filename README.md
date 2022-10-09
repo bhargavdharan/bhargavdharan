@@ -1,7 +1,7 @@
 ## - 👋 Hi, **I’m @bhargavdharan**
-## - 👀 I’m interested in ... *application and UI/UX designing*
+## - 👀 I’m interested in ... *Applications development and Cyber security*
 ## - 🌱 I’m currently learning ... *full stack development*
-## - 💞️ I’m looking to collaborate on ... *organisation with challenging Environment*
+## - 💞️ I’m currently working ... *IAM solutions in ILANTUS TECHNOLOGIES company*
 ## -  How to reach me:
 
 ### Mail Id: bhargavdharan20@gmail.com
