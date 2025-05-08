@@ -1,15 +1,54 @@
-👋 Hello there! I'm Dharankumar Bera, a passionate software support engineer with a strong foundation in cybersecurity and web development. 💻🔒
+# 👋 Hi, I'm Dharan Kumar Bera — Senior Implementation Engineer at ILANTUS
 
-🔧 As a software support engineer, I thrive on solving complex technical challenges and providing exceptional assistance to users. I have hands-on experience in troubleshooting software issues, conducting root cause analysis, and implementing effective solutions to ensure smooth operation and customer satisfaction.
+🔐 Identity and Access Management (IAM) | SailPoint IIQ | Saviynt | SSO | Java | Automation
 
-🛡️ Beyond my role as a support engineer, I have a deep understanding of cybersecurity concepts and best practices. I stay up-to-date with the latest security threats and countermeasures to protect systems and data from potential vulnerabilities. I believe that a proactive approach to security is crucial in today's digital landscape.
+## 🚀 About Me
 
-🌐 Additionally, I have a keen interest in web development and have acquired skills in HTML, CSS, JavaScript, and other web technologies. I enjoy creating dynamic and user-friendly web experiences while adhering to industry standards and best practices. My goal is to build robust and secure web applications that deliver seamless user experiences.
+I’m a Senior Implementation Engineer with a strong focus on IAM solutions, specializing in **SailPoint IdentityIQ** and **Saviynt**. I bring hands-on experience implementing, enhancing, and customizing enterprise identity platforms to improve access governance, compliance, and automation.
 
-🚀 On this GitHub profile, you'll find a collection of my projects, ranging from software support tools and utilities to cybersecurity resources and web development experiments. I believe in the power of collaboration and learning from the open-source community, so feel free to explore, fork, and provide feedback on any of my repositories.
+Currently leading multiple projects involving:
 
-📧 You can reach me at bhargavdharan20@gmail.com for any inquiries or collaboration opportunities.
+- ✅ **SailPoint IIQ Implementation**: End-to-end deployment including onboarding 20+ JDBC applications.
+- 🔧 **Enhancement Projects**: Advanced reporting, lifecycle automation, and UAT-to-production transitions.
+- 🧩 **Custom Development**: ARS File Automation and Audit Automation modules.
+- 🌐 **Saviynt Support**: Access management workflows, compliance integrations, and system tuning.
 
-🔗 Connect with me on LinkedIn to stay updated on my latest projects and professional journey: [LinkedIn Profile](https://www.linkedin.com/in/dharan-kumar-bera-0498a1184)
+---
 
-Let's make the digital world more secure and user-friendly together. Happy coding! ✨
+## 🛠️ Skills & Tools
+
+- **IAM Platforms**: SailPoint IIQ, Saviynt
+- **Languages**: Java, BeanShell, PowerShell, SQL
+- **Technologies**: JDBC, REST APIs, SSO (SAML, OAuth), Active Directory
+- **Tools**: Eclipse, Postman, Git, Jira, ServiceNow
+- **Methodologies**: SDLC, Agile, ITIL
+- **Compliance**: VAPT Handling, Audit Readiness
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 [SailPoint IIQ JDBC Onboarding Project](#) *(Private / Internal)*
+- Onboarded 20+ JDBC-based applications.
+- Lifecycle and certification automation.
+
+### 🔹 [SailPoint IIQ Custom Reporting Framework](#) *(Private / Internal)*
+- Enhanced reporting with customized filters and scheduled delivery.
+
+### 🔹 [Saviynt Access Workflow Optimization](#) *(Private / Internal)*
+- Streamlined request approval flows and policy-based access controls.
+
+> ⚠️ *Note: Many enterprise projects are confidential. I’m actively working on open-source IAM utilities and scripts which will be shared here soon!*
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [Email](mailto:your.email@example.com)
+- GitHub: [@yourusername](https://github.com/yourusername)
+
+---
+
+🔄 *Actively learning and contributing to IAM, cybersecurity, and automation communities.*
+
