@@ -44,9 +44,9 @@ Currently leading multiple projects involving:
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Email](mailto:your.email@example.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/dharankumarbera/)
+- [Email](mailto:bhargavdharan20@gmail.com)
+- GitHub: [@bhargavdharan](https://github.com/bhargavdharan)
 
 ---
 
